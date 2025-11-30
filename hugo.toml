@@ -20,3 +20,14 @@ weight = 2
 [params]
 description = "Software engineer focused on performance and optimization systems."
 custom_css = ["custom.css"]
+
+# Configure which networks to show (REQUIRED)
+[params.ananke.social.follow]
+networks = ["github", "linkedin"]
+
+# Configure each individual network (REQUIRED)
+[params.ananke.social.github]
+username = "rapastranac"
+
+[params.ananke.social.linkedin]
+username = "andrepas"
