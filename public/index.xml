@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andres Pastrana</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.andrespastrana.com/</link>
     <description>Recent content on Andres Pastrana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Nov 2025 11:58:51 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.andrespastrana.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://www.andrespastrana.com/posts/hello-world/</link>
       <pubDate>Sun, 30 Nov 2025 11:58:51 -0700</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://www.andrespastrana.com/posts/hello-world/</guid>
       <description>&lt;p&gt;This is my first post.&lt;br&gt;&#xA;I will be using this blog to share deep dives on C++ development, HPC, and personal projects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.andrespastrana.com/about/</link>
       <pubDate>Sun, 30 Nov 2025 11:58:47 -0700</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://www.andrespastrana.com/about/</guid>
       <description>&lt;p&gt;Hey, I&amp;rsquo;m Andrés.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a software engineer who cares a lot about three things: performance, reliability, and building tools that last. My strongest experience is in C++ systems and Java applications, especially in areas involving graphs, parallel computing, and discrete optimization.&lt;/p&gt;&#xA;&lt;p&gt;Since 2021 I&amp;rsquo;ve been part of the team that develops studioSL, a reservoir simulation platform used globally in energy operations. My work focuses on turning engineering requirements into solid code, improving performance, enhancing usability, and keeping the platform stable through strong test coverage and constant code reviews.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact me</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://www.andrespastrana.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://www.andrespastrana.com/contact/</guid>
       <description>&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://formspree.io/f/xyzrkokz&#34; method=&#34;POST&#34;&#xA;      role=&#34;form&#34;&gt;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;name&#34;&gt;Your Name&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34; required placeholder=&#34; &#34;&#xA;           aria-labelledby=&#34;name&#34;&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Email Address&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34; required placeholder=&#34; &#34;&#xA;           aria-labelledby=&#34;email&#34;&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34;&#xA;              aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xA;&#xA;    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Send&#34;&gt;&#xA;&lt;/form&gt;</description>
     </item>
   </channel>

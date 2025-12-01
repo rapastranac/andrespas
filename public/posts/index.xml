@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Andres Pastrana</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://www.andrespastrana.com/posts/</link>
     <description>Recent content in Posts on Andres Pastrana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Nov 2025 11:58:51 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.andrespastrana.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://www.andrespastrana.com/posts/hello-world/</link>
       <pubDate>Sun, 30 Nov 2025 11:58:51 -0700</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://www.andrespastrana.com/posts/hello-world/</guid>
       <description>&lt;p&gt;This is my first post.&lt;br&gt;&#xA;I will be using this blog to share deep dives on C++ development, HPC, and personal projects.&lt;/p&gt;</description>
     </item>
   </channel>
